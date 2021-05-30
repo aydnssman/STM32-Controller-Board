@@ -16,5 +16,3 @@ on the data coming from RFID.
 5.  AMS1117 Voltage Regulator
 
 It was designed open source with [ugurbayezit](https://github.com/ugurbayezit).
-
-![3D Pic](https://www.hizliresim.com/r3o5cry][img]https://i.hizliresim.com/r3o5cry.PNG)
