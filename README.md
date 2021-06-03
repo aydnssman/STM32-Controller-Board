@@ -3,7 +3,7 @@
 This circuit is designed to control DC motor depending
 on the data coming from RFID. 
 
-## Used Components
+## Used Main Components
 
 1.  Stm32F103C8T6 Microcontroller
 
